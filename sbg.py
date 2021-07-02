@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 #THAKS TO ALL TEAM BOT
 
-from LineAPI.linepy import *
-from LineAPI.akad import *
+from linepy import *
+from akad import *
 from datetime import datetime, timedelta
 from time import sleep
 from bs4 import BeautifulSoup
